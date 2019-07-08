@@ -18,4 +18,3 @@ ActiveRecord::Schema.define(version: 20190708022607) do
     t.string "password"
   end
 end
-
