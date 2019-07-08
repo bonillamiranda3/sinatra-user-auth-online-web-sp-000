@@ -6,3 +6,4 @@
           t.string :password
   end
 end
+end
